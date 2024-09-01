@@ -1,0 +1,8 @@
+print("Hello ashish welcome to python world")
+print("ashish", "123", "true")
+print("ashish", "123", "true", sep="-")
+print("ashish", "123", "true", sep="_")
+print("ashish", "123", "true", sep="%")
+print("ashish", "123", "true", sep="|")
+print("ashish", "123", "true", sep="=",end="@")
+print("no new line")
